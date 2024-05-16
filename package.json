@@ -6,10 +6,19 @@
     "build": "vite build"
   },
   "dependencies": {
+    "aws-amplify": "^6.3.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
   "devDependencies": {
+    "@aws-amplify/backend": "^1.0.2",
+    "@aws-amplify/backend-cli": "^1.0.3",
+    "aws-cdk": "^2.142.0",
+    "aws-cdk-lib": "^2.142.0",
+    "constructs": "^10.3.0",
+    "esbuild": "^0.21.3",
+    "tsx": "^4.10.3",
+    "typescript": "^5.4.5",
     "vite": "^1.0.0-rc.13",
     "vite-plugin-react": "^4.0.0"
   }
